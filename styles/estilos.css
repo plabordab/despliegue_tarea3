@@ -1,0 +1,100 @@
+/* CSS Document */
+
+/*PAGE LAYOUT*/
+
+#page { margin: 0px; }
+#logo { float: left; width: 274px; height: 213px; background-image: url(../img/logo.png);}
+#menu {	position: relative; float: right; width: 526px; height: 32px; }
+#submenu { float:right; width:526px; height:32px; background-position:top;}
+#topheader { position: relative; float: left; width: 526px; height: 97px; background-color: #f6e7d7;}
+#toplinks { position:absolute; right:10px; top:10px;}
+#footer { float: left; width: 800px; padding: 10px; background-color: #f6e7d7;}
+#contenttext { float: right; width: 526px;}
+#leftpanel { float: left; width: 274px; }
+
+.img {
+	
+	width: 350px; 
+	display:block;
+	margin:auto;
+}
+/*GRAY PANEL*/
+.graypanel{
+	background-color:#f6e7d7; padding:10px; margin:10px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #666666;
+}
+/*TEXT STYLES*/
+.bodytext {
+	font: 0.7em Tahoma, sans-serif;
+	color: #666666;
+}
+.titletext {
+	font: 0.7em Tahoma, sans-serif;	
+	color:#583714;
+	font-size: 36px;
+	font-weight: bold;
+}
+.whitetitle {
+	font: 0.7em Tahoma, sans-serif;
+	font-size:36px;
+	font-weight:bold;
+	color:#FFFFFF;
+}
+.smalltitle {
+	font: 0.7em Tahoma, sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	color:#583714;
+}
+.smallwhitetext {
+	font: 0.7em Tahoma, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	color: #FFFFFF;
+}
+.smallwhitetext a{
+	font: 0.7em Tahoma, sans-serif;
+	font-size: 11px;
+	font-weight:bold;	
+	text-decoration:none;
+}
+.smallwhitetext a:hover{
+	text-decoration:underline;
+}
+.smallgraytext {
+	font: 0.7em Tahoma, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	color:#999999;
+}
+.smallgraytext a{
+	font: 0.7em Tahoma, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	color:#999999;
+	text-decoration:none;
+}
+.smallgraytext a:hover{
+	text-decoration:underline;
+}
+.smallredtext {
+	font: 0.7em Tahoma, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	color:#583714;
+}
+.smallredtext a{
+	font: 0.7em Tahoma, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	color:#583714;
+	text-decoration:none;
+}
+.smallwhitetext a { 
+	color: #FFFFFF;
+}
+.smallredtext a:hover { 
+	text-decoration: underline;
+}

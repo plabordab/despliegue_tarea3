@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+	<meta http-equiv="Content-Type" content="text/html"; charset="UTF-8" />
+	<link rel="stylesheet" href="styles/estilos.css" type="text/css" />
+	<title>BALI</title>
+</head>
+<body>
+	<div id="page" align="center">
+		<div id="content" style="width:800px">
+			<div id="logo">
+				<div style="margin-top:70px" class="whitetitle">Turismo Independiente</div>
+			</div>
+			<div id="topheader">
+				<div align="left" class="bodytext" style="margin-left: 12px">
+					<br />
+					<span class="smalltitle">TURISMO INDEPENDIENTE</span><br />
+					Avenida Tenor Fleta 74, Local 2<br />
+					50007 Zaragoza<br />
+					Teléfono: 976-653-321<br />
+					info@turismoindependiente.com
+				</div>
+	
+			</div>
+			
+			<div id="submenu">
+				<div align="right" class="smallgraytext" style="padding:9px;">
+					<a href="index.html">Nuestra filosofía</a> | <a href="destinos.html">Destinos</a> | <a href="proximo.html">Próximo viaje</a>
+				</div>
+			</div>
+			
+			<div id="contenttext">
+				<div style="padding:10px">
+					<span class="titletext">Destinos</span>
+					</div>
+					<div class="bodytext" style="padding:12px;" align="justify">
+									
+					<span class="smalltitle">Bali</span><br /><br />
+					
+					<img class="img" src="../img/img007.jpg"> <br />
+					
+					Conocida como la Isla de los Dioses, Bali es una isla paradisíaca que tiene mucho que ofrecer a sus visitantes. Verdes arrozales, antiguos templos, inolvidables atardeceres, arte y cultura local, danzas milenarias, atractivos paisajes y los mejores hoteles del mundo son algunos de los atractivos más destacables de la isla.
+					
+					<br /><br />
+
+					Lejos de lo que mucha gente piensa, Bali no es un destino que ofrezca playas espectaculares, pero es algo que compensa con una gran dosis de exotismo y belleza salvaje que cautiva a sus visitantes.
+					
+					<br /><br />
+					Comúnmente elegida como destino para los viajes de novios, Bali es también uno de los lugares preferidos por los amantes del surf y otros deportes acuáticos. En Bali es posible disfrutar de algunos de los hoteles más maravillosos del mundo por un precio asequible. Allí, las habitaciones dejan de tener cuatro paredes para convertirse en impresionantes villas con piscina privada y vistas espectaculares, en las que se pierde la noción del espacio y del tiempo y el mundo deja de existir.
+					
+					<br /><br />
+					
+				</div>
+				
+			</div>
+			
+			<div id="leftpanel">
+				<div align="justify" class="graypanel">
+					<span class="smalltitle">Destinos Frecuentes</span><br /><br />
+					<span class="smallredtext"><a href="bali.html">Bali</a></span><br />
+					<span class="bodytext">Conocida como la Isla de los Dioses, Bali es una isla paradisíaca...</span><br /><br />
+                    <span class="smallredtext"><a href="rio.html">Río de Janeiro</a></span><br />
+					<span class="bodytext">La ciudad carioca ofrece un sinfín de posibilidades...</span><br /><br />
+                    <span class="smallredtext"><a href="nueva_york.html">Nueva York</a></span><br />
+					<span class="bodytext">La Gran Manzana es una ciudad sorprendente, con mucho para ver y hacer...</span><br /><br />
+				</div>
+			</div>
+			
+			<div id="footer" class="smallgraytext">
+				<a href="#">Inicio</a> | <a href="#">Sobre Nosotros</a> | <a href="#">Destinos</a> | <a href="#">Tarifas</a> | <a href="#">Contacto</a>
+				| Turismo Independiente, S.A.  
+				&copy; 2022 | <a href="index.html" target="_blank">Turismo Independiente Spain</a> 
+			</div>
+		</div>
+	</div>
+</body>
+</html>

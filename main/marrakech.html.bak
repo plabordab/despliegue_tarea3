@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+	<meta http-equiv="Content-Type" content="text/html"; charset="UTF-8" />
+	<link rel="stylesheet" href="styles/estilos.css" type="text/css" />
+	<title>MARRAKECH</title>
+</head>
+<body>
+	<div id="page" align="center">
+		<div id="content" style="width:800px">
+			<div id="logo">
+				<div style="margin-top:70px" class="whitetitle">Turismo Independiente</div>
+			</div>
+			<div id="topheader">
+				<div align="left" class="bodytext" style="margin-left: 12px">
+					<br />
+					<span class="smalltitle">TURISMO INDEPENDIENTE</span><br />
+					Avenida Tenor Fleta 74, Local 2<br />
+					50007 Zaragoza<br />
+					Teléfono: 976-653-321<br />
+					info@turismoindependiente.com
+				</div>
+	
+			</div>
+			
+			<div id="submenu">
+				<div align="right" class="smallgraytext" style="padding:9px;">
+					<a href="index.html">Nuestra filosofía</a> | <a href="destinos.html">Destinos</a> | <a href="proximo.html">Próximo viaje</a>
+				</div>
+			</div>
+			
+			<div id="contenttext">
+				<div style="padding:10px">
+					<span class="titletext">Destinos</span>
+					</div>
+					<div class="bodytext" style="padding:12px;" align="justify">
+									
+					
+					
+					<span class="smalltitle">Marrakech</span><br /><br />
+					
+					<img class="img" src="../img/img004.jpg"> <br />
+					
+					Entre la tradición y la modernidad, Marrakech es la promesa de sensaciones incomparables. Paseando por la plaza Jemaa El-Fna y los zocos con sus brillantes colores y olores orientales, la ciudad roja responde a su deseo de un cambio de escenario con un chasquido de los dedos. Paseos en carruajes de caballos, terrazas soleadas, artistas ambulantes y otras actividades diurnas y nocturnas marcarán su estancia en Marruecos.
+					
+					<br /><br />
+										
+					Podrá admirar toda la riqueza arquitectónica de la Medina visitando uno de sus numerosos riads, pequeños palacios orientales organizados en torno a un patio central, o podrá recargar las pilas en la Menara, un vasto jardín con una cuenca emblemática de la ciudad. Ya que Marrakech deja la elección a sus visitantes aprovechando su increíble diversidad. Sólo hay que dejar las murallas para sumergirse en el Marruecos contemporáneo. Los barrios de Guéliz y Hivernage ofrecen las más modernas infraestructuras, boutiques de lujo y tiendas de prêt-à-porter internacionales, así como amplias y aireadas avenidas; todo ello en consonancia con el carácter único de Marrakech.
+					
+				</div>
+				
+			</div>
+			
+			<div id="leftpanel">
+				<div align="justify" class="graypanel">
+					<span class="smalltitle">Destinos Frecuentes</span><br /><br />
+					<span class="smallredtext"><a href="bali.html">Bali</a></span><br />
+					<span class="bodytext">Conocida como la Isla de los Dioses, Bali es una isla paradisíaca...</span><br /><br />
+                    <span class="smallredtext"><a href="rio.html">Río de Janeiro</a></span><br />
+					<span class="bodytext">La ciudad carioca ofrece un sinfín de posibilidades...</span><br /><br />
+                    <span class="smallredtext"><a href="nueva_york.html">Nueva York</a></span><br />
+					<span class="bodytext">La Gran Manzana es una ciudad sorprendente, con mucho para ver y hacer...</span><br /><br />
+				</div>
+			</div>
+			
+			<div id="footer" class="smallgraytext">
+				<a href="#">Inicio</a> | <a href="#">Sobre Nosotros</a> | <a href="#">Destinos</a> | <a href="#">Tarifas</a> | <a href="#">Contacto</a>
+				| Turismo Independiente, S.A.  
+				&copy; 2022 | <a href="index.html" target="_blank">Turismo Independiente Spain</a> 
+			</div>
+		</div>
+	</div>
+</body>
+</html>
